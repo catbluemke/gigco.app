@@ -1,0 +1,16 @@
+{
+"companyName": "SpekWork",
+"productName": "Gigco",
+"dataUrl": "Gigco.data.unityweb",
+"wasmCodeUrl": "Gigco.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gigco.wasm.framework.unityweb",
+"asmCodeUrl": "Gigco.asm.code.unityweb",
+"asmMemoryUrl": "Gigco.asm.memory.unityweb",
+"asmFrameworkUrl": "Gigco.asm.framework.unityweb",
+"TOTAL_MEMORY": 67108864,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#3D36FB",
+"cacheControl": {"default": "must-revalidate"}
+}
